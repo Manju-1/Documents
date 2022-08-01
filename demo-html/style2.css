@@ -1,0 +1,13 @@
+input[name='fname'] {
+    background-color: blueviolet;
+}
+
+input[class="second_row"] {
+    background-color: brown
+}
+
+p[class='first'] {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    background-color: aqua;
+}
